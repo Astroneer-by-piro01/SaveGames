@@ -7,3 +7,4 @@
 >> ##### （こんなことしてました参考）現在休止中ですが、専用サーバーの時の紹介ページを参考添付します→
 >> ##### [ASTRONEERの世界へようこそ(byPiroliroline)](https://writening.net/page?nPgCjr)
 > ##### 途中　つづく？ｗ
+##### memo　[基本的な書き方とフォーマットの構文リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
