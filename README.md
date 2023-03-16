@@ -1,2 +1,2 @@
 # SaveGames
-# --- Stream game : Astroneer test ---
+# --- Steam game : Astroneer test ---
