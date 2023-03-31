@@ -4,9 +4,11 @@
 >> #### <<< ファイル紹介 >>>
 >> ### ` 2023_BESTSEED$2023.03.15-16.37.18.savegame `
 >> ###### 　（ラッキーな環境１：ちょっと進めてしまっているので、せっかちな人向けｗ）
+>> ![Test Image 1](https://github.com/Astroneer-by-piro01/photo_save/blob/main/samune36.jpg?raw=true)
 >> ### `2023_BESTSEED2$2023.03.16-09.07.23.savegame `
 >> ###### 　（ラッキーな環境２：ミッションほぼ、未着手です。ノンビリでいい人向けｗ）
 >> ###### ※この２ファイルは、立て続けにラッキーで、今回の配布のきっかけになったものです。
+>> ![Test Image 2](https://github.com/Astroneer-by-piro01/photo_save/blob/main/samune37.jpg?raw=true)
 >> ### `SAVE_1_SERVER$2023.03.25-09.00.51.savegame `
 >> ###### 　（ちょっと大きめのdata：有料サーバーでやっていた時のバックアップ。11 MBあります。）
 >> ![Test Image 3](https://github.com/Astroneer-by-piro01/photo_save/blob/main/samune18.jpg?raw=true)
