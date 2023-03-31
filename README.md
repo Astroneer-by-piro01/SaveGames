@@ -9,7 +9,7 @@
 >> ###### ※この２ファイルは、立て続けにラッキーで、今回の配布のきっかけになったものです。
 >> ### `SAVE_1_SERVER$2023.03.25-09.00.51.savegame `
 >> ###### 　（ちょっと大きめのdata：有料サーバーでやっていた時のバックアップ。11 MBあります。）
-![Test Image 8](https://github.com/Astroneer-by-piro01/photo_save/blob/main/samune18.jpg?raw=true)
+>> ###![Test Image 8](https://github.com/Astroneer-by-piro01/photo_save/blob/main/samune18.jpg?raw=true)
 > ##### 詳細は今後追加予定。
 >> ##### ASTRONEERのセーブデータの保存場所は、下のサイトに紹介されてました。
 >> ##### [http://mtkdt.blog.fc2.com/blog-entry-74.html?sp](http://mtkdt.blog.fc2.com/blog-entry-74.html?sp)
