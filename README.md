@@ -12,6 +12,9 @@
 >> ### `SAVE_1_SERVER$2023.03.25-09.00.51.savegame `
 >> ###### 　（ちょっと大きめのdata：有料サーバーでやっていた時のバックアップ。11 MBあります。）
 >> ![Test Image 3](https://github.com/Astroneer-by-piro01/photo_save/blob/main/samune18.jpg?raw=true)
+>> ### `SUPERSPHERE_1$2024.05.01-18.59.29.savegame `
+>> ###### 　（カスタムワールドの：整地不要？の公式から出てたやつ。Supersphere）
+>> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_custum4.png?raw=true)
 > ##### 詳細は今後追加予定。
 >> ##### ASTRONEERのセーブデータの保存場所は、下のサイトに紹介されてました。
 >> ##### [http://mtkdt.blog.fc2.com/blog-entry-74.html?sp](http://mtkdt.blog.fc2.com/blog-entry-74.html?sp)
