@@ -15,6 +15,12 @@
 >> ### `SUPERSPHERE_1$2024.05.01-18.59.29.savegame `
 >> ###### 　（カスタムワールドの：整地不要？の公式から出てたやつ。Supersphere）
 >> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_custum4.png?raw=true)
+>> ### `SUPERSPHERE_SVbk2$2024.08.19-21.31.52.savegame `
+>> ###### 　（2024夏祭りSV：整地不要？の公式から出てたやつ。Supersphere）
+>> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_ivent818_1.png?raw=true)
+>> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_ivent818_2.png?raw=true)
+>> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_ivent818_3.png?raw=true)
+>> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_ivent818_4.png?raw=true)
 > ##### 詳細は今後追加予定。
 >> ##### ASTRONEERのセーブデータの保存場所は、下のサイトに紹介されてました。
 >> ##### [http://mtkdt.blog.fc2.com/blog-entry-74.html?sp](http://mtkdt.blog.fc2.com/blog-entry-74.html?sp)
