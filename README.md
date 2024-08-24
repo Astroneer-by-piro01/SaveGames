@@ -22,7 +22,7 @@
 >> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_ivent818_3.png?raw=true)
 >> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_ivent818_4.png?raw=true)
 >> ###### 　25Mバイト以上なので分割ソフト「ファイル破断＋」使用して2分割しました。こちらのやつ↓
->> ###### 　(https://freesoft-100.com/review/filehadan.php)
+>> ###### [https://freesoft-100.com/review/filehadan.php?sp]　(https://freesoft-100.com/review/filehadan.php)
 > ##### 詳細は今後追加予定。
 >> ##### ASTRONEERのセーブデータの保存場所は、下のサイトに紹介されてました。
 >> ##### [http://mtkdt.blog.fc2.com/blog-entry-74.html?sp](http://mtkdt.blog.fc2.com/blog-entry-74.html?sp)
