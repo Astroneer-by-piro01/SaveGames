@@ -16,7 +16,7 @@
 >> ###### 　（カスタムワールドの：整地不要？の公式から出てたやつ。Supersphere）
 >> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_custum4.png?raw=true)
 >> ### `SUPERSPHERE_SVbk2$2024.08.19-21.31.52.savegame `
->> ###### 　（2024夏祭りSV：整地不要？の公式から出てたやつ。Supersphere）
+>> ###### 　（2024夏祭りSV：専用サーバーで。g-portal.com）
 >> ###### 　25Mバイト以上なので分割ソフト「ファイル破断＋」使用して2分割しました。こちらのやつ↓
 >> ##### [https://freesoft-100.com/review/filehadan.php](https://freesoft-100.com/review/filehadan.php)
 >> ![Test Image 4](https://github.com/Astroneer-by-piro01/photo_save/blob/main/astro_ivent818_1.png?raw=true)
